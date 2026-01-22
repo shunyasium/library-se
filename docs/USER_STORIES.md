@@ -10,3 +10,11 @@
 
 
 
+\## Sprint 2
+
+\- As a user, I want to borrow a book so that it becomes unavailable.
+
+\- As a user, I want to return a book so that it becomes available again.
+
+
+
