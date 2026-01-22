@@ -16,5 +16,9 @@
 
 | 2 | Return book | return\_book() | test\_return\_book | v0.2 |
 
+| 3 | Generate report | generate\_report() | test\_report\_header | v0.3 |
+
+| 3 | Report entry | generate\_report() | test\_report\_contains\_book | v0.3 |
+
 
 
